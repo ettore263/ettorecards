@@ -7,22 +7,17 @@ criaCartao(
 criaCartao(
     'O Rei',
     'Quem é o rei dos Quincys?',
-    'A capital da França é Paris'
+    'Yhwach é o Rei Quincy e criador da raça.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Mais Forte',
+    'Qual a Bankai masi forte de Bleach?',
+    'Zanka No Tachi de Yamamoto o capitão mais velho de toda a soul society'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Mundos',
+    'Quais são todos os mundos de Bleach?',
+    '1 Mundo Normal / Cidade de Karakura. 2 Hueco Mundo. 3 Inferno. 4 Soul Society.'
 )
